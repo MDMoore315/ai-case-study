@@ -35,7 +35,8 @@ In direct competition with ventures like Bing, Jasper, ChatGPT, Bard, Gemin; Per
 
 Perplexity continuously works to improve it's performance and precision as compared to other AI models. The images below demonstrate these achievements in Copilot. Illustrating that Perplexity's GPT-3.5 model is on par wih the GPT-4-based models and reduced latency, producing results in 0.65 seconds. Far better than the previous tests achieving results in 3.15 seconds.
 
-!
+!https://github.com/MDMoore315/ai-case-study/blob/main/9DzIk1sYkko08a49PxrbGQIQEWk.webp
+
 
 # IMAGE 1
 
