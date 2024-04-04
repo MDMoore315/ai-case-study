@@ -1,42 +1,45 @@
-# TITLE
+# Perplexity AI
 
 ## Overview and Origin
 
-* Name of company
+[Perplexity AI](https://www.perplexity.ai/hub) was founded in August 2022 by Aravind Srinivas, Denis Yarats, Johnny Ho, and Andy Konwinski. All with extensive experience and backgrounds in AI research, machine learning and backend systems engineering. 
 
-* When was the company incorporated?
+Srinivas has been inspired and influenced by Google's CEO Sundar Pichai after seeing a YouTube interview with Pichai. Srinivas interned at the Google-owned DeepMind and, later, at Google's headquarters as a research intern.
 
-* Who are the founders of the company?
+Srinivas and the other cofounders decided to try a new apporach to internet search engines and builed an 'answer' engine through combining aa traditional search index with large language models. This became Perplexity.
 
-* How did the idea for the company (or project) come about?
+*Sources:*
+[Wired.com](https://www.wired.com/story/founder-perplexity-ai-sundar-pichai-competing-to-reinvent-search/), [Forbes](https://www.forbes.com/sites/joannechen/2023/09/06/how-perplexityai-is-pioneering-the-future-of-search/?sh=51fb2ceead91)
 
-* How is the company funded? How much funding have they received?
+The founders have recently achieved unicorn status through raising $1bn through Series A and Series B funding rounds, including Jeff Bezos and Nvidia, and others, in addition to 'Angel Investors' that believe in their vision.
+
+>"Perplexity is intensely building a product capable of bringing the power of AI to billions. The team possesses the unique ability to uphold a grand, long-term vision while shipping product relentlessly, requirements to tackle a problem as important and fundamental as search.” — Cack Wilhelm, General Partner, IVP, who led the round, and joins Perplexity’s Board of Directors.>
+
+*Source:* [Perplexity Blog](https://www.perplexity.ai/hub)
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
+Achieving 10 million monthly users to date, Perplexity AI strives to brand itself as a concise 'answer engine' through a clean UI void of paid placements or advertisements in its answers. Responses are presented conversationally through Large Language Models (LLM) and using natural language predictive text to answer queries.
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+Hoping to reach billions of consumers through its conversational search engine to answer queries, Perplexity's free version leverages OpenAI's GPT-3.5 model combined with a standalone LLM with NLP capabilities. Capabilities are extended in its Pro version which accesses GPT-4 and Claude 2, utilizing sources from the web.
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+*Source:* [Perplexity Blog](https://www.perplexity.ai/hub)
 
 ## Landscape
 
-* What field is the company in?
+In direct competition with ventures like Bing, Jasper, ChatGPT, Bard, Gemin; Perplexity's primary focus on reinventing the search engine has expanded from it's desktop app to mobile apps, a web browswer API and the Copilot search companion (branded as a  collaborative research partner).
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-
-* What are the other major companies in this field?
+>Academic Research Use Case: Students and academics, meet your ultimate research assistant. Imagine you're knee-deep in literature reviews. Don't just settle for endless scrolling. Pro search not only digs through academic databases but also asks what specifically you're looking for. The result? A tailored list of sources and even summarized papers. Say hello to more time and smarter research. *Source:* [Perplexity Blog](https://www.perplexity.ai/hub/faq/what-is-pro-search)
 
 ## Results
 
-* What has been the business impact of this company so far?
+Perplexity continuously works to improve it's performance and precision as compared to other AI models. The images below demonstrate these achievements in Copilot. Illustrating that Perplexity's GPT-3.5 model is on par wih the GPT-4-based models and reduced latency, producing results in 0.65 seconds. Far better than the previous tests achieving results in 3.15 seconds.
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+!
 
-* How is your company performing relative to competitors in the same field?
+# IMAGE 1
+
+*Source:* [Perplexity Blog Copilot on Perplexity](https://www.perplexity.ai/hub/blog/copilot-on-perplexity)
 
 ## Recommendations
 
