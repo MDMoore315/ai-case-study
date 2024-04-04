@@ -6,7 +6,7 @@
 
 Srinivas has been inspired and influenced by Google's CEO Sundar Pichai after seeing a YouTube interview with Pichai. Srinivas interned at the Google-owned DeepMind and, later, at Google's headquarters as a research intern.
 
-Srinivas and the other cofounders decided to try a new apporach to internet search engines and builed an 'answer' engine through combining aa traditional search index with large language models. This became Perplexity.
+Srinivas and the other cofounders decided to try a new apporach to internet search engines and build an 'answer' engine through combining a traditional search index with large language models. This became Perplexity.
 
 *Sources:*
 [Wired.com](https://www.wired.com/story/founder-perplexity-ai-sundar-pichai-competing-to-reinvent-search/), [Forbes](https://www.forbes.com/sites/joannechen/2023/09/06/how-perplexityai-is-pioneering-the-future-of-search/?sh=51fb2ceead91)
@@ -21,32 +21,28 @@ The founders have recently achieved unicorn status through raising $1bn through 
 
 Achieving 10 million monthly users to date, Perplexity AI strives to brand itself as a concise 'answer engine' through a clean UI void of paid placements or advertisements in its answers. Responses are presented conversationally through Large Language Models (LLM) and using natural language predictive text to answer queries.
 
-Hoping to reach billions of consumers through its conversational search engine to answer queries, Perplexity's free version leverages OpenAI's GPT-3.5 model combined with a standalone LLM with NLP capabilities. Capabilities are extended in its Pro version which accesses GPT-4 and Claude 2, utilizing sources from the web.
+Hoping to reach billions of consumers through its conversational search engine to answer queries, Perplexity's free version leverages OpenAI's GPT-3.5 model combined with a standalone LLM with NLP capabilities. These are extended in its Pro version which accesses GPT-4 and Claude 2, utilizing sources from the web.
 
 *Source:* [Perplexity Blog](https://www.perplexity.ai/hub)
 
 ## Landscape
 
-In direct competition with ventures like Bing, Jasper, ChatGPT, Bard, Gemin; Perplexity's primary focus on reinventing the search engine has expanded from it's desktop app to mobile apps, a web browswer API and the Copilot search companion (branded as a  collaborative research partner).
+In direct competition with ventures like Bing, Jasper, ChatGPT, Bard, Gemin; Perplexity's primary focus on reinventing the search engine has expanded from the desktop app to mobile apps, a web browswer API and the Copilot search companion (branded as a  collaborative research partner).
 
 >Academic Research Use Case: Students and academics, meet your ultimate research assistant. Imagine you're knee-deep in literature reviews. Don't just settle for endless scrolling. Pro search not only digs through academic databases but also asks what specifically you're looking for. The result? A tailored list of sources and even summarized papers. Say hello to more time and smarter research. *Source:* [Perplexity Blog](https://www.perplexity.ai/hub/faq/what-is-pro-search)
 
 ## Results
 
-Perplexity continuously works to improve it's performance and precision as compared to other AI models. The images below demonstrate these achievements in Copilot. Illustrating that Perplexity's GPT-3.5 model is on par wih the GPT-4-based models and reduced latency, producing results in 0.65 seconds. Far better than the previous tests achieving results in 3.15 seconds.
+Perplexity continuously works to improve its performance and precision as compared to other AI models. The images below demonstrate these achievements in Copilot. Illustrating that Perplexity's GPT-3.5 model is on par wih the GPT-4-based models and reduced latency, producing results in 0.65 seconds. Far better than the previous tests achieving results in 3.15 seconds.
 
 ![Performance Parity with GPT-4](https://github.com/MDMoore315/ai-case-study/blob/main/j3xbumN0GncXrCLg3o3AtXeqQ.webp)
 
-![4-5x Latency Reduction}(https://github.com/MDMoore315/ai-case-study/blob/main/9DzIk1sYkko08a49PxrbGQIQEWk.webp)
+![4-5x Latency Reduction](https://github.com/MDMoore315/ai-case-study/blob/main/9DzIk1sYkko08a49PxrbGQIQEWk.webp)
 
 *Source:* [Perplexity Blog Copilot on Perplexity](https://www.perplexity.ai/hub/blog/copilot-on-perplexity)
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+As a novice in this field of study and a basic user of Perplexity, it is difficult to make anything but reductive recommendations. I would, however, recommend that Perplexity add a prominent call out about the potential for mistakes and/or hallucinations in it's results. Increased transparency can only improve the users experience and build trust.
 
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+As many users adopt products like Dall-E and Davinci, I would enjoy seeing what Perplexity is capable of in in this field. 
